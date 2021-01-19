@@ -1,5 +1,5 @@
-INSERT INTO project (developer_id, name)
-VALUES ('1', 'Шакальная'),
+insert into project (developer_id, name)
+values ('1', 'Шакальная'),
     ('1', 'Сладкий дом'),
     ('2', 'Представительство представителей')
     -- ('3', 'Ельцино'),

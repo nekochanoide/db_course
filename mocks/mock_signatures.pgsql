@@ -1,5 +1,5 @@
-INSERT INTO signature (employee_id, agreement_id)
-VALUES ('2', '1'),
+insert into signature (employee_id, agreement_id)
+values ('2', '1'),
     ('3', '1'),
     ('4', '1'),
     ('5', '1'),

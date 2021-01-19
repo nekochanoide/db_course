@@ -1,6 +1,5 @@
-INSERT INTO developer (name)
-VALUES
-    ('PRINZIP'),
+insert into developer (name)
+values('PRINZIP'),
     ('TEN Девелопмент'),
     ('Группа ЛСР'),
     ('Атомстройкомплекс'),

@@ -50,4 +50,3 @@ begin
     where с.name = name_;
     commit;
 end;$$;
-

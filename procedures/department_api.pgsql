@@ -42,7 +42,6 @@ language plpgsql
 as $$
 declare
     company_id_ int;
-
 begin
     if length(new_name) = 0
     then raise exception 'не указано новое имя отдела';

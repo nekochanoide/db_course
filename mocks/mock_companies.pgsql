@@ -1,4 +1,4 @@
-INSERT INTO company (name)
-VALUES ('Anime project'),
+insert into company (name)
+values ('Anime project'),
     ('Anime build'),
     ('Anime deploy');

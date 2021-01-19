@@ -1,3 +1,3 @@
-CREATE DATABASE building_project_company;
-
-CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+create database building_project_company;
+create schema employee_schema;
+-- create extension if not exists "uuid-ossp";

@@ -1,5 +1,5 @@
-INSERT INTO department (name, company_id)
-VALUES ('Концепция', 1),
+insert into department (name, company_id)
+values ('Концепция', 1),
     ('Концепция', 2),
     ('ОВ', 1),
     ('КЖ', 1),

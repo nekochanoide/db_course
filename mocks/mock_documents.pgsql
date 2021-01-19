@@ -1,5 +1,5 @@
-INSERT INTO document (name, stage_id)
-VALUES ('vel pede.xls', '4'),
+insert into document (name, stage_id)
+values ('vel pede.xls', '4'),
   ('curae.ppt', '2'),
   ('integer.txt', '6'),
   ('duis at.txt', '1'),

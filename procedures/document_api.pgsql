@@ -1,4 +1,4 @@
-create or replace procedure create_document(name_ varchar, stage_id_ int, employee_id_ int)
+create or replace procedure employee_schema.create_document(name_ varchar, stage_id_ int, employee_id_ int)
 language plpgsql    
 as $$
 declare new_id int;
@@ -51,7 +51,7 @@ begin
     commit;
 end;$$;
 
-create or replace procedure delete_document(id_ int, stage_id_ int, employee_id_ int)
+create or replace procedure employee_schema.delete_document(id_ int, stage_id_ int, employee_id_ int)
 language plpgsql    
 as $$
 declare
@@ -97,7 +97,7 @@ begin
     commit;
 end;$$;
 
-create or replace procedure change_document(id_ int, stage_id_ int, employee_id_ int)
+create or replace procedure employee_schema.change_document(id_ int, stage_id_ int, employee_id_ int)
 language plpgsql    
 as $$
 declare

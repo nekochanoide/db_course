@@ -1,5 +1,5 @@
-INSERT INTO agreement (stage_id, date_)
-VALUES('1', '2020-12-03'),
+insert into agreement (stage_id, date_)
+values('1', '2020-12-03'),
     ('2', '2020-12-30'),
     ('3', '2020-11-01'),
     ('4', '2020-12-02'),
